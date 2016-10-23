@@ -1,13 +1,13 @@
 # Permalinks
 #
-permalink:           pretty
+permalink:           :year/:month/:title/
 
 # Setup
 title:               RW
 tagline:             'Thoughts & more'
 description:         'The place where Clément Renaud write stuff about what he does, thinks, etc.'
 url:                 http://clementrenaud.com/rw
-# baseurl:             '/rw'
+baseurl:             '/rw'
 
 gems: [jekyll-paginate]
 paginate:            5
