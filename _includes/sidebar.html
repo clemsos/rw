@@ -24,12 +24,12 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
-  <div class="sidebar-item">
+  <div id="contact" class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      Write to me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> or <a href="{{ site.author.twitter }}">@clemsos</a> on Twitter.
+
     </p>
   </div>
 </div>

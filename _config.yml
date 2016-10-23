@@ -15,7 +15,7 @@ paginate:            5
 # About/contact
 author:
   name:              Clément Renaud
-  url:               https://twitter.com/clemsos
+  twitter:               https://twitter.com/clemsos
   email:             hello@clementrenaud.com
 
 # Custom vars
