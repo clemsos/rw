@@ -3,9 +3,9 @@
 permalink:           :year/:month/:title/
 
 # Setup
-title:               RW
-tagline:             'Thoughts & more'
-description:         'The place where Clément Renaud write stuff about what he does, thinks, etc.'
+title:               R/W
+tagline:             'Thought and technical experiments.'
+description:         'The place where Clément Renaud write stuff about his current thoughts, works, projects, etc.'
 url:                 http://clementrenaud.com/rw
 baseurl:             '/rw'
 
