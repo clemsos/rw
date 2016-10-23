@@ -1,0 +1,22 @@
+# Permalinks
+#
+permalink:           pretty
+
+# Setup
+title:               RW
+tagline:             'Thoughts & more'
+description:         'The place where Clément Renaud write stuff about what he does, thinks, etc.'
+# url:                 http://clementrenaud.com/rw
+# baseurl:             '/rw'
+
+gems: [jekyll-paginate]
+paginate:            5
+
+# About/contact
+author:
+  name:              Clément Renaud
+  url:               https://twitter.com/clemsos
+  email:             hello@clementrenaud.com
+
+# Custom vars
+version:             1.0.0
