@@ -566,3 +566,7 @@ a.pagination-item:hover {
   position: absolute;
   bottom : 1em
 }
+
+.footnotes {
+  font-size: .7em;
+}
