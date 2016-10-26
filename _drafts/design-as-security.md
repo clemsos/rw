@@ -1,0 +1,3 @@
+3. 魏少军：中国发展存储器芯片应以市场为主导_公司频道_财新网 清华大学微电子研究所所长魏少军认为，要淡化“政府主导”的思路，谁的市场能力强，就由谁来主导  //  Interview with Wei Shaojun, director of the Institute of Microelectronics at Tsinghua University, who just led the recent Politburo study session, "deglobalization" of China's IT stack only gaining momentum
+
+Related: 军报：护好网络命门 最好的方法是“用上中国芯”-中新网 call in PLA Daily for domestic chips as best way to ensure cyber security  //  自1994年4月20日通过一条64K的国际专线接入国际互联网后，我国网络发展飞奔在信息的高速路上，目前已拥有世界上数量最多的网民和规模最大的网络市场，成为名副其实的网络大国。然而，相对于信息技术的快速发展和广泛应用，我们的网络安全整体防护能力不强，基础信息技术水平较为薄弱，特别是核心芯片、操作系统、数据库等基础软硬件大部分采用国外产品，存在着重大安全隐患。正因如此，习主席在网络安全和信息化工作座谈会上指出：“互联网核心技术是我们最大的‘命门’，核心技术受制于人是我们最大的隐患”。
