@@ -22,4 +22,4 @@ Rebuilding spaces for discussions between scientific domains, but also with engi
 Few well-funded institutions have started to experiment in creating dedicated institutes, circumventing the problem. Still, for the majority of researchers, curiosity will cost you your career or your family - depending on how you handle it. Many young and talented researchers are lacking proper space in academia to bring their ideas and methods. Discovery in science has already started to slip out of the academic field to the private sector. New forms of initiatives are flourishing but academia still tries hard to not pass the torch. The trend may continue until the last university closes its doors. It may shift direction with a larger movement from academics. Either way, we can just be hopeful about what is coming next.
 
 
-Posted on http://researchrealities.tumblr.com on Oct 30, 2016
+Posted on [http://researchrealities.tumblr.com](http://researchrealities.tumblr.com/post/152507636101/i-own-a-license-in-communication-a-master-in#notes) on Oct 30, 2016
